@@ -1,5 +1,10 @@
 # CIS_5 Assignment 2 (Winter 2026)
 
+Here is my repo video
+
+[
+](https://docs.google.com/videos/d/1eK5fjinoKaiViEWpN2TO1MPcjznwPnQDXLDPnZ3Io3M/edit?usp=drive_link)
+
 A small C++ program that collects user information, calculates BMI (Body Mass Index), and converts a numeric test score into a letter grade.
 
 ## What the program does
